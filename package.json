@@ -1,0 +1,14 @@
+{
+  "name": "javascript-challenge-brad-traversy-udemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/silavsale/javascript-challenge-brad-traversy-udemy.git",
+  "author": "MoonWalker <silavsale@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
